@@ -1,6 +1,5 @@
 ### Hi there 👋, I'm Sreedevi S
-<!--
-**Sreedevi179/Sreedevi179** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+
 
 👨‍💻 All of my projects are available at https://github.com/Sreedevi179 
 
