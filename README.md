@@ -1,16 +1,15 @@
-### Hi there 👋
-
+### Hi there 👋, I'm Sreedevi S
 <!--
 **Sreedevi179/Sreedevi179** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+👨‍💻 All of my projects are available at https://github.com/Sreedevi179 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🔭 I’m currently working on a react js project
+
+🌱 I’m currently learning three js
+
+💬 Ask me about Flutter, ReactJS, C++
+
+📫 How to reach me [s.sreedevisk@gmail.com](s.sreedevisk@gmail.com)
+
+📄 Know about my experiences [View Resume]
